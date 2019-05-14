@@ -8,5 +8,5 @@ gem install lolcat
 termux-setup-storage
 cd $HOME/storage/shared
 mkdir virtex
-cd $HOME
+cd $HOME/virtexV2
 echo
