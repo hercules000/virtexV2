@@ -6,7 +6,7 @@ apt install curl
 apt install figlet
 gem install lolcat
 termux-setup-storage
-cd storage/shared
+cd $HOME/storage/shared
 mkdir virtex
 cd $HOME
 echo
