@@ -11,7 +11,7 @@ Virtex Whatsapp V2
 ```java
 $ apt update && apt upgrade
 $ apt install git
-$ git clone https://github.com/muhammadfathul/virtexV2
+$ git clone https://github.com/ArroKM/virtexV2
 $ cd virtexV2
 $ sh virtexV2.sh
 ```
